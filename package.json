@@ -1,5 +1,5 @@
 {
-  "name": "mattie-strapi-bundle",
+  "name": "@lyesm/mattie-strapi-bundle",
   "description": "Mono repo for the mattie-strapi-bundle",
   "workspaces": [
     "packages/*",
