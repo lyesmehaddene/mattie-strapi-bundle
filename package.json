@@ -1,6 +1,5 @@
 {
   "name": "mattie-strapi-bundle",
-  "private": true,
   "description": "Mono repo for the mattie-strapi-bundle",
   "workspaces": [
     "packages/*",
